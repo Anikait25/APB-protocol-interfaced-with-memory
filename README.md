@@ -6,19 +6,6 @@ This project demonstrates the integration of the **AMBA APB (Advanced Peripheral
 
 ---
 
-## 📁 Project Structure
-
-apb_memory_interface/
-├── src/
-│ ├── apb_master.v
-│ ├── apb_slave.v
-│ ├── memory.v
-│ └── top.v
-├── testbench/
-│ └── tb_top.v
-├── README.md
-└── waveform/ (optional)
-
 
 ---
 
