@@ -4,11 +4,6 @@
 
 This project demonstrates the integration of the **AMBA APB (Advanced Peripheral Bus) protocol** with a simple memory module. The APB is used for connecting low-bandwidth peripherals in system-on-chip (SoC) architectures. This design shows how to use APB protocol signals to perform read and write operations on a memory block, typically implemented in Verilog HDL.
 
----
-
-
----
-
 ## 🔧 Modules Description
 
 ### 1. `apb_master.v`
